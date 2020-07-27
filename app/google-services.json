@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "980627677294",
+    "firebase_url": "https://bliss-mart.firebaseio.com",
+    "project_id": "bliss-mart",
+    "storage_bucket": "bliss-mart.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:980627677294:android:9c32a70309aa90711cc67f",
+        "android_client_info": {
+          "package_name": "com.app.blissmart"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "980627677294-hei3p3cji1s6b2u8e563guvlbjop3odm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.blissmart",
+            "certificate_hash": "24a5e150e205d3022dc0520a8fe0fc878df7e703"
+          }
+        },
+        {
+          "client_id": "980627677294-8dpbbdq6k49m4mvv5km2p5kg23erbrng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWvAgVFDnrqFOoIoDc8iJsOw-vIVciyh0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "980627677294-8dpbbdq6k49m4mvv5km2p5kg23erbrng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
